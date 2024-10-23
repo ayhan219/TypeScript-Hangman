@@ -63,10 +63,6 @@ function App() {
     }
   }, [])
 
-  useEffect(()=>{
-
-  },[])
-
   return (
     <div
       style={{
